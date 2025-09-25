@@ -30,8 +30,7 @@ Cypien AI API, ürün görsellerinizi analiz ederek akıllı tag'ler oluşturur 
 
 ### Base URLs
 
-- **Production:** `https://api.cypien.ai/v1`
-- **Preprod:** `https://preprod-api.cypien.ai/v1`
+- **Production:** `https://api.cypien.ai/`
 
 ### Supported Content Types
 
