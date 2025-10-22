@@ -302,7 +302,7 @@ Content-Type: application/json
 #### Generate Title
 
 ```http
-POST /v1/content/generate-title
+POST /v1/title/generate
 Authorization: Bearer {token}
 Content-Type: application/json
 
@@ -341,7 +341,7 @@ Content-Type: application/json
 #### Generate Google Feed Content
 
 ```http
-POST /v1/content/generate-google-feed
+POST /v1/googlefeed/generate
 Authorization: Bearer {token}
 Content-Type: application/json
 
