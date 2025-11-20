@@ -1,7 +1,7 @@
 # Cypien AI API Documentation
 
 **Version:** 2.0  
-**Last Updated:** September 2025  
+**Last Updated:** November 2025  
 **Contact:** [developer@cypien.ai](mailto:developer@cypien.ai)
 
 ---
@@ -203,6 +203,7 @@ Authorization: Bearer {token}
       "specialDayId": 0,
       "baseAudienceId": 1761,
       "body": "",
+      "humanizedBody": "",
       "language": "en-US",
       "status": "WAITING",
       "createdAt": "2025-09-22T15:26:09.602Z",
